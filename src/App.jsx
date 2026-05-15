@@ -27,7 +27,7 @@ import {
 // ⚠️ 資安強烈警告：目前為了讓你方便測試先寫死在此。
 // 正式上線或放上 GitHub 前，請務必改用環境變數 (例如 import.meta.env.VITE_FIREBASE_API_KEY)
 const firebaseConfig = {
-  apiKey: 'AIzaSyA3szUkwzKS2fFsuF-_31FFwrCGa5qzpC4',
+  apiKey: 'AIzaSyDWSRg2CrBkiftBCOtPaNMhauN1S7tXDQ0',
   authDomain: 'warehouse-system-c3ca1.firebaseapp.com',
   projectId: 'warehouse-system-c3ca1',
   storageBucket: 'warehouse-system-c3ca1.firebasestorage.app',
