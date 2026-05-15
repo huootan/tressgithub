@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# 忽略本機的環境變數設定檔 (確保 API Key 等機密絕對不落地)
+.env
+.env.*
+!.env.example
